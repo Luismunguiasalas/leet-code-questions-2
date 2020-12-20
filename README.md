@@ -7,3 +7,4 @@ remove duplicates from sorted list
 1672 richest customer wealth
 1688 count of matches in tournament
 1470 shuffle the array
+1295 find numbers with even number of digits
