@@ -8,3 +8,4 @@ remove duplicates from sorted list
 1688 count of matches in tournament
 1470 shuffle the array
 1295 find numbers with even number of digits
+888 fair candy shop
