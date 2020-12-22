@@ -10,3 +10,4 @@ remove duplicates from sorted list
 1295 find numbers with even number of digits
 888 fair candy shop
 1002 find common characters
+7 reverse interger
