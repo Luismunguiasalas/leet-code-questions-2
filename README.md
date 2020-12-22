@@ -11,3 +11,6 @@ remove duplicates from sorted list
 888 fair candy shop
 1002 find common characters
 7 reverse interger
+find nth fib memoization
+find nth fib tabulation
+knap_sack
